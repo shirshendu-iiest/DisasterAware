@@ -76,8 +76,9 @@ ESP32, LoRA commmunication, IoT sensors, Android Application, AI/ML, Gps, Disast
 A dedicated mobile application is being developed for DisasterAware.
 
 
-## Repository Rodmap
+## Repository Roadmap
 
+```text
 DisasterAware/
 │
 ├── app/           # Android application
@@ -87,7 +88,7 @@ DisasterAware/
 ├── hardware/      # Circuit and node designs
 ├── docs/          # Project documentation
 └── assets/        # Screenshots and prototype images
-
+```
 
 
 ## System Architecture
